@@ -8,7 +8,8 @@ public class Main {
             System.out.println("1234");
                     System.out.println("4321");
             System.out.println("5555");
-
+            System.out.println("2");
+            System.out.println("3");
         }
     }
 // TODO сделать проект
